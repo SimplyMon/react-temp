@@ -1,5 +1,4 @@
 import { Route, Routes } from "react-router-dom";
-
 import { HomeScreen } from "./components/screen/HomeScreen";
 import { HeaderComponent } from "./components/layout/HeaderComponent";
 import { FooterComponent } from "./components/layout/FooterComponent";
@@ -13,7 +12,6 @@ function App() {
       <Routes>
         <Route path="/" element={<HomeScreen />} />
         <Route path="/about" element={<AboutScreen />} />
-
         <Route path="*" element={<NotFound />} />
       </Routes>
       <FooterComponent />
