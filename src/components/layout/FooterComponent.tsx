@@ -4,7 +4,7 @@ export function FooterComponent() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="md:flex md:justify-between md:items-start gap-12">
           <div className="mb-8 md:mb-0 md:w-1/3">
-            <span className="text-3xl font-bold text-blue-600">Chirpy</span>
+            <span className="text-3xl font-bold text-blue-600">Mondev</span>
             <p className="mt-3 text-gray-600">
               Follow your feathered friends and explore the world of birds!
             </p>
@@ -87,7 +87,7 @@ export function FooterComponent() {
             <div>
               <h4 className="text-gray-800 font-semibold mb-4">Contact</h4>
               <ul className="space-y-2 text-gray-600">
-                <li>Email: info@chirpy.com</li>
+                <li>Email: info@Mondev.com</li>
                 <li>Phone: +1 234 567 890</li>
                 <li>
                   <a href="#" className="hover:text-blue-600 transition">
